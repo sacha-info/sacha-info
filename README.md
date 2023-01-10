@@ -15,5 +15,8 @@ Languages and Tools<br>
 <img width="45px" src="https://raw.githubusercontent.com/sacha-info/sacha-info/250bae48a16a07aff6c6308d158ba3687c0b2d2a/images/sketch.svg" alt="sketch">&nbsp;&nbsp;
 <img width="45px" src="https://raw.githubusercontent.com/sacha-info/sacha-info/250bae48a16a07aff6c6308d158ba3687c0b2d2a/images/figma.svg" alt="figma">&nbsp;&nbsp;
 <img width="45px" src="https://raw.githubusercontent.com/sacha-info/sacha-info/250bae48a16a07aff6c6308d158ba3687c0b2d2a/images/github.svg" alt="github">&nbsp;&nbsp;
+<img width="45px" src="https://raw.githubusercontent.com/sacha-info/sacha-info/main/images/wordpress.png" alt="wordpress">&nbsp;&nbsp;
+<img width="45px" src="https://raw.githubusercontent.com/sacha-info/sacha-info/f37604cbac2443c7187eff5093c98629d8b5a9ab/images/woocommerce.svg" alt="Woocommerce">&nbsp;&nbsp;
+
 
 <br>
