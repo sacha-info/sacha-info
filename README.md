@@ -5,7 +5,6 @@ Languages and Tools<br>
 <img width="45px" src="https://raw.githubusercontent.com/sacha-info/sacha-info/65eb1fcdc9a36d4b077770bfe3eeeb726f6490a7/images/php.svg" alt="php">&nbsp;&nbsp;
 <img width="45px" src="https://raw.githubusercontent.com/sacha-info/sacha-info/d62b9e831dafab919bb8ed4048c51380d5f520ef/images/mysqli.svg" alt="mysql">&nbsp;&nbsp;
 <img width="45px" src="https://raw.githubusercontent.com/sacha-info/sacha-info/b360272874a72918f1612e7d42feaa587b149425/images/reactjs.svg" alt="React">&nbsp;&nbsp;
-<img width="45px" src="https://raw.githubusercontent.com/sacha-info/sacha-info/main/images/typescript.png" alt="typescript">&nbsp;&nbsp;
 <img width="45px" src="https://raw.githubusercontent.com/sacha-info/sacha-info/3b08583bb63bcfa41d46d09a5205712b4e4bdd31/images/javascript.svg" alt="javascript">&nbsp;&nbsp;
 <img width="45px" src="https://raw.githubusercontent.com/sacha-info/sacha-info/3b08583bb63bcfa41d46d09a5205712b4e4bdd31/images/sass.svg" alt="sass">&nbsp;&nbsp;
 <img width="45px" src="https://raw.githubusercontent.com/sacha-info/sacha-info/3b08583bb63bcfa41d46d09a5205712b4e4bdd31/images/css.svg" alt="css">&nbsp;&nbsp;
