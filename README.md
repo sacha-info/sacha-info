@@ -1,5 +1,5 @@
 <h1>Hi there, I'm Sacha 👋🏻</h1>
-<h2>I am a Frontend Developer. I love coding</h2>
+<h2>I love coding</h2>
 
 Languages and Tools<br>
 <img width="45px" src="https://raw.githubusercontent.com/sacha-info/sacha-info/65eb1fcdc9a36d4b077770bfe3eeeb726f6490a7/images/php.svg" alt="php">&nbsp;&nbsp;
